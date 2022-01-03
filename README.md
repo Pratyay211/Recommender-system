@@ -1,5 +1,5 @@
 # MovieRec
-This project is a web app for movie websites like Netflix where a user is allowed to create an account and watch movies. This web app has mainly focused on the quality of recommendations we make to the user. From the various forms of recommendations we have used some of the most appropriate ones. The user can view the already watched and rated movies in the dashboard. But before that when the user opens the web app he is prompted to login the website if not registered we can as well register. The web app has a nice GUI with every button and field labeled with their respective role. So, the user will not face any difficulty in using the web app.
+This project is a web app for movie/TV series websites like Netflix where a user is allowed to create an account and watch movies. This web app mainly focuses on the quality of recommendations made to the user. From the various forms of recommendations, we have used some of the most appropriate ones. The user can view the already watched and rated movies in the dashboard. But before that when the user opens the web app he is prompted to login to the website. The web app has a nice GUI with every button and field labeled with their respective role in the application. So, the user will not face any difficulty while using the web app.
 
 ## Welcome to MovieRec
 ![homepage](images/homepage.png) 
